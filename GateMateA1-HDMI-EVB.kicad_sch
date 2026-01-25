@@ -22192,7 +22192,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "1.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22210,7 +22210,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22230,7 +22230,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22248,7 +22248,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22268,7 +22268,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22286,7 +22286,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "3.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22306,7 +22306,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -22324,7 +22324,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "4.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23375,7 +23375,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "1.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23393,7 +23393,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23413,7 +23413,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23431,7 +23431,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23451,7 +23451,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23469,7 +23469,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "3.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23489,7 +23489,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23507,7 +23507,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "4.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23590,7 +23590,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "1.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23608,7 +23608,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23628,7 +23628,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23646,7 +23646,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23666,7 +23666,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23684,7 +23684,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "3.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23704,7 +23704,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23722,7 +23722,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "4.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23805,7 +23805,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "1.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23823,7 +23823,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23843,7 +23843,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23861,7 +23861,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23881,7 +23881,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23899,7 +23899,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "3.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23919,7 +23919,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -23937,7 +23937,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "4.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24020,7 +24020,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "1.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24038,7 +24038,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "1.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24058,7 +24058,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24076,7 +24076,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "2.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24096,7 +24096,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "3.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24114,7 +24114,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "3.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24134,7 +24134,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "4.1"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -24152,867 +24152,7 @@
 							)
 						)
 					)
-					(number "8"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "RA1206_(4x0603)_4B8_Smashed_5"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RM"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "RA1206_(4x0603)_4B8_Smashed"
-				(at 0.2032 1.016 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_5_0_0"
-				(rectangle
-					(start -1.2446 4.445)
-					(end 1.2954 3.175)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_5_1_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_5_2_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_5_3_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_5_4_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "RA1206_(4x0603)_4B8_Smashed_6"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RM"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "RA1206_(4x0603)_4B8_Smashed"
-				(at 0.2032 1.016 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_6_0_0"
-				(rectangle
-					(start -1.2446 4.445)
-					(end 1.2954 3.175)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_6_1_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_6_2_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_6_3_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_6_4_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "RA1206_(4x0603)_4B8_Smashed_7"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RM"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "RA1206_(4x0603)_4B8_Smashed"
-				(at 0.2032 1.016 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_7_0_0"
-				(rectangle
-					(start -1.2446 4.445)
-					(end 1.2954 3.175)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_7_1_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_7_2_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_7_3_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_7_4_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "RA1206_(4x0603)_4B8_Smashed_8"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RM"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Value" "RA1206_(4x0603)_4B8_Smashed"
-				(at 0.2032 1.016 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 -2.54 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_8_0_0"
-				(rectangle
-					(start -1.2446 4.445)
-					(end 1.2954 3.175)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_8_1_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_8_2_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_8_3_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-			)
-			(symbol "RA1206_(4x0603)_4B8_Smashed_8_4_1"
-				(pin passive line
-					(at -5.08 3.81 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 3.81 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 0.9906 0.9906)
-							)
-						)
-					)
-					(number "8"
+					(number "4.2"
 						(effects
 							(font
 								(size 0.9906 0.9906)
@@ -68110,7 +67250,6 @@
 		)
 	)
 	(symbol
-		(lib_name "RA1206_(4x0603)_4B8_Smashed_6")
 		(lib_id "OLIMEX_RCL:RA1206_(4x0603)_4B8_Smashed")
 		(at 142.24 176.53 0)
 		(mirror y)
@@ -68162,28 +67301,28 @@
 				)
 			)
 		)
-		(pin "4"
+		(pin "2.2"
 			(uuid "a9604a01-07c5-4d3f-8ab8-e969713b2a86")
 		)
-		(pin "1"
+		(pin "1.2"
 			(uuid "9fec75d6-3e55-4fd7-a58a-1c3e07d05438")
 		)
-		(pin "5"
+		(pin "4.1"
 			(uuid "44b793f5-b9a6-4360-bfa4-28d0afebb8b4")
 		)
-		(pin "6"
+		(pin "3.2"
 			(uuid "60aa3361-dd62-4bdf-8009-4ac3e50a6f9f")
 		)
-		(pin "2"
+		(pin "4.2"
 			(uuid "43a20e5d-ed95-4f3b-b2a0-387f49395532")
 		)
-		(pin "7"
+		(pin "3.1"
 			(uuid "b3f74b24-9837-42a7-8532-21fcd6298b01")
 		)
-		(pin "8"
+		(pin "1.1"
 			(uuid "19c8da07-b2b3-4f42-8e35-e4077b50d82b")
 		)
-		(pin "3"
+		(pin "2.1"
 			(uuid "152159ea-a7da-4d49-88c0-b0cce8602288")
 		)
 		(instances
@@ -68505,7 +67644,6 @@
 		)
 	)
 	(symbol
-		(lib_name "RA1206_(4x0603)_4B8_Smashed_5")
 		(lib_id "OLIMEX_RCL:RA1206_(4x0603)_4B8_Smashed")
 		(at 142.24 171.45 0)
 		(mirror y)
@@ -68557,28 +67695,28 @@
 				)
 			)
 		)
-		(pin "6"
+		(pin "4.1"
 			(uuid "c040ab76-f65a-4104-b09c-7c203d813524")
 		)
-		(pin "5"
+		(pin "3.2"
 			(uuid "e6ac30d6-e3b8-4e59-a2bb-598bc04c17dc")
 		)
-		(pin "8"
+		(pin "4.2"
 			(uuid "270ddf16-c2fa-4a11-bda3-a5883283b3c3")
 		)
-		(pin "7"
+		(pin "1.1"
 			(uuid "dcd56fac-90fe-44bc-94cc-0ccaed3088d5")
 		)
-		(pin "2"
+		(pin "2.2"
 			(uuid "80e3f32d-5983-4e78-9c37-5812653a9278")
 		)
-		(pin "4"
+		(pin "3.1"
 			(uuid "82d9d8d1-36e4-4738-9d13-0e907f3916ce")
 		)
-		(pin "1"
+		(pin "1.2"
 			(uuid "817d934a-7576-4c61-969e-f254caeb4f6c")
 		)
-		(pin "3"
+		(pin "2.1"
 			(uuid "51a889fb-47cd-4ecb-80ce-8f68f015ab2d")
 		)
 		(instances
@@ -73300,28 +72438,28 @@
 				(hide yes)
 			)
 		)
-		(pin "8"
+		(pin "3.1"
 			(uuid "f816228f-ccaf-47b7-8c20-c45d64438aa6")
 		)
-		(pin "7"
+		(pin "2.1"
 			(uuid "7bd239ec-06f9-4e66-81c5-a61a338fa79f")
 		)
-		(pin "6"
+		(pin "1.1"
 			(uuid "44b793f5-b9a6-4360-bfa4-28d0afebb8b5")
 		)
-		(pin "2"
+		(pin "2.2"
 			(uuid "60aa3361-dd62-4bdf-8009-4ac3e50a6fa0")
 		)
-		(pin "5"
+		(pin "1.2"
 			(uuid "43a20e5d-ed95-4f3b-b2a0-387f49395533")
 		)
-		(pin "1"
+		(pin "4.1"
 			(uuid "b3f74b24-9837-42a7-8532-21fcd6298b02")
 		)
-		(pin "3"
+		(pin "4.2"
 			(uuid "19c8da07-b2b3-4f42-8e35-e4077b50d82c")
 		)
-		(pin "4"
+		(pin "3.2"
 			(uuid "152159ea-a7da-4d49-88c0-b0cce8602289")
 		)
 		(instances
@@ -82065,7 +81203,6 @@
 		)
 	)
 	(symbol
-		(lib_name "RA1206_(4x0603)_4B8_Smashed_7")
 		(lib_id "OLIMEX_RCL:RA1206_(4x0603)_4B8_Smashed")
 		(at 142.24 173.99 0)
 		(mirror y)
@@ -82116,28 +81253,28 @@
 				)
 			)
 		)
-		(pin "8"
+		(pin "4.1"
 			(uuid "952e5b0d-9d46-4f3e-9e23-5d9b96c8e6f3")
 		)
-		(pin "2"
+		(pin "2.1"
 			(uuid "62ff148a-2417-47a8-b661-df33f7a0a045")
 		)
-		(pin "4"
+		(pin "1.2"
 			(uuid "c7235811-4a3c-44fb-a425-db95a0d193c3")
 		)
-		(pin "7"
+		(pin "3.1"
 			(uuid "7cc32df1-373e-412d-950c-c92298b342f2")
 		)
-		(pin "1"
+		(pin "1.1"
 			(uuid "3563cc91-d0f5-4323-96d2-c65a36b9fff1")
 		)
-		(pin "6"
+		(pin "2.2"
 			(uuid "6c4790ee-dfd9-4682-b335-88c9f62ec2bb")
 		)
-		(pin "5"
+		(pin "4.2"
 			(uuid "45628076-20e8-4fd9-a85c-c88e44fc065b")
 		)
-		(pin "3"
+		(pin "3.2"
 			(uuid "c8fbe8db-5bdf-49f6-acca-542a371af0c9")
 		)
 		(instances
@@ -83026,28 +82163,28 @@
 				(hide yes)
 			)
 		)
-		(pin "4"
+		(pin "4.1"
 			(uuid "c040ab76-f65a-4104-b09c-7c203d813525")
 		)
-		(pin "5"
+		(pin "3.1"
 			(uuid "e6ac30d6-e3b8-4e59-a2bb-598bc04c17dd")
 		)
-		(pin "1"
+		(pin "4.2"
 			(uuid "270ddf16-c2fa-4a11-bda3-a5883283b3c4")
 		)
-		(pin "7"
+		(pin "3.2"
 			(uuid "dcd56fac-90fe-44bc-94cc-0ccaed3088d6")
 		)
-		(pin "8"
+		(pin "1.1"
 			(uuid "6d947199-7fe1-4a4d-87ef-d94fa5e825b5")
 		)
-		(pin "6"
+		(pin "2.2"
 			(uuid "7cc5e4b5-a417-43e1-bc8e-18f966288dce")
 		)
-		(pin "3"
+		(pin "1.2"
 			(uuid "817d934a-7576-4c61-969e-f254caeb4f6d")
 		)
-		(pin "2"
+		(pin "2.1"
 			(uuid "51a889fb-47cd-4ecb-80ce-8f68f015ab2e")
 		)
 		(instances
@@ -89456,28 +88593,28 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
+		(pin "4.2"
 			(uuid "69bf6d18-441c-4e2b-a11d-0bf2dd7e7e30")
 		)
-		(pin "5"
+		(pin "3.2"
 			(uuid "46adcfef-5fbc-4974-af8e-a7aa04a01dae")
 		)
-		(pin "4"
+		(pin "2.2"
 			(uuid "ddf9f7c6-9bb4-4807-8bc0-847c79f42274")
 		)
-		(pin "8"
+		(pin "3.1"
 			(uuid "f5ba8dcd-3aed-4246-8b15-cbd52f38e3e1")
 		)
-		(pin "6"
+		(pin "1.2"
 			(uuid "25577ed7-045a-47cc-9ba4-d553f0e2ae68")
 		)
-		(pin "3"
+		(pin "1.1"
 			(uuid "7139eff7-77da-4a3d-afe4-7995ea3932b8")
 		)
-		(pin "2"
+		(pin "2.1"
 			(uuid "7e160a5b-3ca5-4318-a27d-7df217f023dc")
 		)
-		(pin "7"
+		(pin "4.1"
 			(uuid "39161858-3e58-4972-98f9-34c5d328d68e")
 		)
 		(instances
@@ -105435,28 +104572,28 @@
 				(hide yes)
 			)
 		)
-		(pin "5"
+		(pin "1.2"
 			(uuid "952e5b0d-9d46-4f3e-9e23-5d9b96c8e6f5")
 		)
-		(pin "2"
+		(pin "2.1"
 			(uuid "62ff148a-2417-47a8-b661-df33f7a0a047")
 		)
-		(pin "7"
+		(pin "3.1"
 			(uuid "d0543ff0-3ff4-4090-8802-773da22d39a2")
 		)
-		(pin "1"
+		(pin "4.2"
 			(uuid "445b8d74-55d9-41b3-bc29-162d796ce811")
 		)
-		(pin "6"
+		(pin "4.1"
 			(uuid "3563cc91-d0f5-4323-96d2-c65a36b9fff3")
 		)
-		(pin "4"
+		(pin "3.2"
 			(uuid "6c4790ee-dfd9-4682-b335-88c9f62ec2bd")
 		)
-		(pin "8"
+		(pin "1.1"
 			(uuid "45628076-20e8-4fd9-a85c-c88e44fc065d")
 		)
-		(pin "3"
+		(pin "2.2"
 			(uuid "c8fbe8db-5bdf-49f6-acca-542a371af0cb")
 		)
 		(instances
@@ -106096,28 +105233,28 @@
 				(hide yes)
 			)
 		)
-		(pin "3"
+		(pin "4.1"
 			(uuid "aa41272b-b7dc-4273-a38a-c78231c0b1e4")
 		)
-		(pin "4"
+		(pin "2.1"
 			(uuid "7cac4f37-bb00-4f45-853c-2f9d5da5824c")
 		)
-		(pin "6"
+		(pin "1.2"
 			(uuid "a0ae2071-4ef0-4acb-bf89-afea55783362")
 		)
-		(pin "5"
+		(pin "1.1"
 			(uuid "ae6d7f01-d08c-432b-98b8-150a6c490407")
 		)
-		(pin "2"
+		(pin "3.1"
 			(uuid "f080f197-35c8-4f77-bdc9-4224ffe74b5f")
 		)
-		(pin "7"
+		(pin "4.2"
 			(uuid "0c5e42e7-65c8-4868-9e7c-5905f6ace45c")
 		)
-		(pin "1"
+		(pin "3.2"
 			(uuid "83dafd4a-f1ff-42e4-92c1-862527c64d08")
 		)
-		(pin "8"
+		(pin "2.2"
 			(uuid "1bf7244c-4ca4-439f-8ec0-673b83f821a4")
 		)
 		(instances
@@ -107181,7 +106318,6 @@
 		)
 	)
 	(symbol
-		(lib_name "RA1206_(4x0603)_4B8_Smashed_8")
 		(lib_id "OLIMEX_RCL:RA1206_(4x0603)_4B8_Smashed")
 		(at 142.24 168.91 0)
 		(mirror y)
@@ -107233,28 +106369,28 @@
 				)
 			)
 		)
-		(pin "5"
+		(pin "2.1"
 			(uuid "c29a1cf8-dc77-4427-8a51-c213a169b970")
 		)
-		(pin "6"
+		(pin "1.2"
 			(uuid "2187a3ca-3855-432a-b4d3-5f2fec79f5cc")
 		)
-		(pin "7"
+		(pin "1.1"
 			(uuid "9d1ce51d-8797-4516-a898-800b86708db5")
 		)
-		(pin "1"
+		(pin "4.1"
 			(uuid "5f6a7582-8ab8-437d-8601-a42247f610ee")
 		)
-		(pin "2"
+		(pin "3.2"
 			(uuid "fe43fdae-ece2-498b-bccd-94f1a3595c41")
 		)
-		(pin "3"
+		(pin "3.1"
 			(uuid "dc16349e-3baa-4f17-a455-aceed796fa2a")
 		)
-		(pin "4"
+		(pin "4.2"
 			(uuid "9615f354-bde1-4caa-af6f-1b3acb69f84d")
 		)
-		(pin "8"
+		(pin "2.2"
 			(uuid "fb231dec-497c-42f1-bc43-efa93abc855f")
 		)
 		(instances
@@ -108454,28 +107590,28 @@
 				(hide yes)
 			)
 		)
-		(pin "7"
+		(pin "1.2"
 			(uuid "0840c7bd-50c1-4914-8b03-5891e17ff775")
 		)
-		(pin "5"
+		(pin "2.1"
 			(uuid "b9743275-4f69-4c59-873b-4148b9bbb130")
 		)
-		(pin "3"
+		(pin "4.2"
 			(uuid "ab400e38-85c9-478c-a41c-a77aa2df1500")
 		)
-		(pin "8"
+		(pin "1.1"
 			(uuid "465c2565-6bd0-4070-bd8a-80a8875ba9f3")
 		)
-		(pin "1"
+		(pin "3.1"
 			(uuid "9d3b515a-089c-4b0d-9e76-e37efe392f91")
 		)
-		(pin "6"
+		(pin "2.2"
 			(uuid "b2ec6215-e598-48e8-83e2-40b42e279603")
 		)
-		(pin "2"
+		(pin "3.2"
 			(uuid "66ae96c5-1f81-4623-b420-beb8e9efb672")
 		)
-		(pin "4"
+		(pin "4.1"
 			(uuid "0027bcec-c8de-4a11-9f68-df8cd38519a4")
 		)
 		(instances
@@ -113872,28 +113008,28 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
+		(pin "3.2"
 			(uuid "7074ac97-4fdf-4c92-90ec-fee26a5595a5")
 		)
-		(pin "5"
+		(pin "1.2"
 			(uuid "a4df5a8c-b909-4129-830b-1537a2620901")
 		)
-		(pin "1"
+		(pin "4.1"
 			(uuid "268a6369-7f09-4cd7-87b4-e0bbe0c7c6ad")
 		)
-		(pin "8"
+		(pin "3.1"
 			(uuid "dc63bd47-d0cb-4026-92da-1bdcddde10ad")
 		)
-		(pin "6"
+		(pin "4.2"
 			(uuid "1e2ac5f8-a0f2-4ae3-ace4-80a1bfcb0f52")
 		)
-		(pin "4"
+		(pin "2.2"
 			(uuid "d2d07027-8c02-4b0c-bb0c-9e8cb996284a")
 		)
-		(pin "7"
+		(pin "1.1"
 			(uuid "f0c1d707-02ef-4226-bc32-d7b8ec65d879")
 		)
-		(pin "3"
+		(pin "2.1"
 			(uuid "ebb5cedb-3068-44c9-9bf9-ba8fd1ed35b1")
 		)
 		(instances
@@ -114701,28 +113837,28 @@
 				(hide yes)
 			)
 		)
-		(pin "4"
+		(pin "3.2"
 			(uuid "ce4af5e3-2380-4ce8-b026-2a6df11ad41a")
 		)
-		(pin "2"
+		(pin "1.1"
 			(uuid "6040d436-1e36-4d24-bcf9-c76d4b028a6b")
 		)
-		(pin "3"
+		(pin "2.1"
 			(uuid "782d35c5-84ab-408e-adbd-9318d1937306")
 		)
-		(pin "5"
+		(pin "2.2"
 			(uuid "6df64875-35f1-406c-871c-a83169ad4bb0")
 		)
-		(pin "1"
+		(pin "4.1"
 			(uuid "11c1b652-a785-4515-bc17-befedfd3ab26")
 		)
-		(pin "6"
+		(pin "1.2"
 			(uuid "235f2d7f-32dc-4c19-88d1-e4810236bcc6")
 		)
-		(pin "8"
+		(pin "3.1"
 			(uuid "abaced2d-3566-4c1e-bf30-c7a7848ad07e")
 		)
-		(pin "7"
+		(pin "4.2"
 			(uuid "087340d6-6998-415c-91fc-8381f6aa584e")
 		)
 		(instances
