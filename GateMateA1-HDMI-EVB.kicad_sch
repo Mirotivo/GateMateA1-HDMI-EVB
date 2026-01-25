@@ -970,27 +970,28 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "CON"
-				(at 0.0508 8.9154 0)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Value" "BH10S"
-				(at 0.3048 -9.4234 0)
+			(property "Value" "P-B-V-10-LF"
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Footprint" ""
-				(at -0.2032 -1.1938 0)
+			(property "Footprint" "OLIMEX_Connectors-FP:GBH-254-SMT-10"
+				(at 0 -12.7 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
@@ -999,9 +1000,28 @@
 					(font
 						(size 1.524 1.524)
 					)
+					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Connector 10 pins 2x5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Note" "PB-Free"
+				(at 0 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Connector 2x5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1253,17 +1273,6 @@
 				)
 			)
 			(symbol "BH10S_0_1"
-				(rectangle
-					(start -3.81 7.62)
-					(end 3.81 -7.62)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(polyline
 					(pts
 						(xy -3.81 5.08) (xy -3.048 5.08)
@@ -1386,6 +1395,17 @@
 				)
 			)
 			(symbol "BH10S_1_1"
+				(rectangle
+					(start -3.81 7.62)
+					(end 3.81 -7.62)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin passive line
 					(at -7.62 5.08 0)
 					(length 3.7084)
@@ -22974,12 +22994,13 @@
 					)
 				)
 			)
-			(property "Footprint" ""
-				(at -1.27 0 90)
+			(property "Footprint" "OLIMEX_Transistors-FP:SOT23"
+				(at 0 -10.16 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
@@ -22988,9 +23009,19 @@
 					(font
 						(size 1.524 1.524)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "N-MOS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -23026,21 +23057,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 0.0254) (xy 0.2032 0.0254) (xy 0.2032 -2.5146)
+						(xy -1.27 0.0254) (xy 0.254 0.0254) (xy 0.254 -2.54)
 					)
 					(stroke
 						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -0.635 0)
-					(radius 4.191)
-					(stroke
-						(width 0.254)
 						(type solid)
 					)
 					(fill
@@ -23071,43 +23091,9 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 0.2032 -2.5146)
-					(radius 0.1016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(polyline
 					(pts
-						(xy 0.5334 0.762) (xy 2.3622 0.762)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.4732 2.54)
-					(radius 0.1016)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.4986 0.8128) (xy 1.4986 2.54)
+						(xy 0.508 0.762) (xy 2.413 0.762)
 					)
 					(stroke
 						(width 0)
@@ -23119,32 +23105,8 @@
 				)
 				(polyline
 					(pts
-						(xy 1.4986 -2.0828) (xy 1.4986 -2.4892)
+						(xy 1.524 0.762) (xy 1.524 2.54)
 					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.4986 -2.0828) (xy 1.4986 -0.4826) (xy 0.5842 -0.4826) (xy 2.3622 -0.4826) (xy 1.4986 0.8382)
-						(xy 0.5334 -0.4572)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 1.4986 -2.5146)
-					(radius 0.1016)
 					(stroke
 						(width 0)
 						(type solid)
@@ -23178,18 +23140,10 @@
 					)
 				)
 				(text "G"
-					(at -3.429 0.3048 0)
+					(at -3.429 0 0)
 					(effects
 						(font
 							(size 1.016 1.016)
-						)
-					)
-				)
-				(text "N-MOS"
-					(at -1.905 -0.0254 900)
-					(effects
-						(font
-							(size 0.4064 0.4064)
 						)
 					)
 				)
@@ -23206,6 +23160,87 @@
 					(effects
 						(font
 							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(symbol "N-MOS+DIOD_1_0"
+				(circle
+					(center -0.635 0)
+					(radius 4.191)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 0.254 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.524 2.54)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 0.762) (xy 0.508 -0.508) (xy 2.413 -0.508) (xy 1.524 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.524 -2.54) (xy 1.524 -0.508) (xy 0.508 -0.508) (xy 2.413 -0.508) (xy 1.524 0.762) (xy 0.508 -0.508)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.524 -2.54)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(text "N-MOS"
+					(at -1.905 -0.0254 900)
+					(effects
+						(font
+							(face "Liberation Serif")
+							(size 0.635 0.635)
+							(bold yes)
+							(italic yes)
 						)
 					)
 				)
@@ -24992,6 +25027,11 @@
 	(bus_alias "Ext-BUS"
 		(members "NA_A[0..8]" "NA_B[0..8]" "NB_A[0..8]" "NB_B[0..8]" "EA_A[0..7]"
 			"EA_B[0..7]" "EB_A[0..8]" "EB_B[0..8]"
+		)
+	)
+	(bus_alias "HDMI-BUS"
+		(members "HDMI_TX2+" "HDMI_TX2-" "HDMI_TX1+" "HDMI_TX1-" "HDMI_TX0+" "HDMI_TX0-"
+			"HDMI_SCL" "HDMI_SDA" "HDMI_HPD" "HDMI_TXC+" "HDMI_TXC-"
 		)
 	)
 	(bus_alias "Main-BUS"
@@ -61453,6 +61493,19 @@
 		)
 		(uuid "2827924b-d66e-4c85-b568-73022e16ae3a")
 	)
+	(label "{HDMI-BUS}"
+		(at 421.64 410.21 90)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 194 0 0 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "297d1b6a-1457-414f-8a49-d3a5a4a3b1ab")
+	)
 	(label "NB_B3"
 		(at 266.7 289.56 0)
 		(effects
@@ -66393,7 +66446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1.8V"
+		(property "Value" "+1V8"
 			(at 576.58 317.5 90)
 			(effects
 				(font
@@ -69452,7 +69505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1.8V"
+		(property "Value" "+1V8"
 			(at 576.58 309.88 90)
 			(effects
 				(font
@@ -74898,7 +74951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1.8V"
+		(property "Value" "+1V8"
 			(at 576.58 358.14 90)
 			(effects
 				(font
@@ -90546,7 +90599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 579.755 345.44 90)
 			(effects
 				(font
@@ -91853,7 +91906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 433.705 370.84 90)
 			(effects
 				(font
@@ -99819,7 +99872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 579.755 299.72 90)
 			(effects
 				(font
@@ -100752,12 +100805,13 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Connector 10 pins 2x5"
 			(at 45.72 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Fieldname 1" "Value 1"
@@ -100783,6 +100837,15 @@
 			(effects
 				(font
 					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Note" "PB-Free"
+			(at 45.72 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
