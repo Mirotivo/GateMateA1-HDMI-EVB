@@ -3,8 +3,24 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "Power"
+    ],
+    "hidden_nets": [
+      "GND",
+      "VDD_NA",
+      "VDD_EB",
+      "VDD_NB",
+      "+3V3",
+      "+5V_USB",
+      "+2V5",
+      "VDD_CORE",
+      "+1V8",
+      "+1V2",
+      "/VDD_PLL",
+      "/VDD_SER_PLL",
+      "/VDD_SER"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -32,6 +48,7 @@
     "visible_items": [
       "vias",
       "footprint_text",
+      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
